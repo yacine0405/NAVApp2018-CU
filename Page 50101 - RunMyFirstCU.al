@@ -1,7 +1,7 @@
 page 50101 "RunMyFirstCU"
 {
     PageType = Card;
-    // SourceTable = TableName;
+    // SourceTable = TableName; ok
     
     layout
     {
