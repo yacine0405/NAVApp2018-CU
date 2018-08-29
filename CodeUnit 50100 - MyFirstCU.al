@@ -2,7 +2,7 @@ codeunit 50100 "MyFirstCU"
 {
     trigger OnRun()
     begin
-// 
+// qsdsdsq
     end;
 
     procedure MyFunction()
