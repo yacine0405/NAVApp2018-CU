@@ -1,4 +1,4 @@
-// Welcome to your new AL extension.
+// Welcome to your new AL extension.qsdq
 // Remember that object names and IDs should be unique across all extensions.sqd
 // AL snippets start with t*, like tpageext - give them a try and happy coding!sqds
 
